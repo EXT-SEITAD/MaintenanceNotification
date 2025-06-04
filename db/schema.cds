@@ -1,5 +1,6 @@
 namespace MaintenanceNotification;
+
 entity TestDaria
 {
-    key new2 : UUID;
+    key new3 : UUID;
 }
